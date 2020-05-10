@@ -1,0 +1,18 @@
+The Historic Center of Mexico City is one of the most important tourist places in the country.
+In that place different stages of the history of the city and the country converge, from
+Pre-Columbian age to modern Mexico.
+
+There are many activities and places to visit like museums, concerts, restaurants,
+colonial churches, including archaeological sites. So it is possible to lose yourself in a world
+of activities.This project offers a small guide to visit those beautiful places for tourists
+with little limited.
+
+We need to start somewhere, so one of the most iconic points of interest is the Zocalo.
+From that point, it is possible to move to different historical buildings, museums, restaurants,
+shops etc. In this place we need the data of the nearby places, such as coordinates, direction, etc.
+Since then, Mexico City is the city with the most museums in the world, we began to search
+museums near the Zocalo on the Foursquare platform.
+
+We assumed that a tourist chose one of the most representative museums and the archaeological zone.
+in Mexico: main museum of the temple. From there, we look for trending places to visit, eat or just
+chill out. Therefore, we look for places near a certain place and we need to draw them on a map.
